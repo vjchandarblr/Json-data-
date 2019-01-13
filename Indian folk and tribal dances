@@ -1,0 +1,52 @@
+{
+
+    "Arunachal Pradesh": ["Bardo Chham"],
+
+    "Assam": ["Bagurumba", "Bhortal", "Jhumur", "Khel", "Gopal", "Rakhal Lila", "Tabal Chongli"," Canoe", "Nongkrem", "Ankiya Nat"," Kirtania Natak"," Ojapali","Bihu"],
+    
+    "Bihar": ["Jadur", "Kathaputli"," Bhako", "Jhijiya", "Karma", "Jatra","Natna", "Bidesia", "Senkela Chhau","Jat-Jatni Bidpada","Ramkhelia"],
+    
+    "Chhattisgarh": ["Raut Nacha"],
+    
+    "Gujarat": ["Dandiya", "Bhavai", "Garba", "Tippani Dance", "Padhar dance"," Dangi Nritya"," Hudo", "Matukdi","Aagwa", "Siddi Dhamal"],
+    
+    "Haryana": ["Swang", "Naqqal"," Ras Leela"," Dhamal dance", "Manjira dance" , "Dhamal dance" , "Goga dance" ],
+    
+    "Himachal Pradesh":[ "Nati", "Kariyala, Bhagat", "Ras Ihanld", "Harnatra Haran or Harin."],
+    
+    "Jammu and Kashmir": ["Bhand Pathar or Bhand lashna", "Rouff", "Vetal Dhamali."],
+    
+    "Karnataka" :["Yakshagana", "Bedara Vesha" , "Dollu Kunitha" , "Santa" , "Doddata-Bayalata" , "Tala Maddle or Prasang. Dasarata"," Radhna.","veeragase"],
+    
+    "Kerala" : ["Duffmuttu","Oppana"," Padayani" , "Theyam" ," Kodiyattam" , "Margam Kali" ,"Puli Kali" , "Mudiattam" , "Thirayattam" , "Chavittu Nadakam" , "titambhu nritam" , "Chakyar koothu" ],
+    
+    "Madhya Pradesh" : ["Maanch"," Nacha", "Phul patti" , "Tertali" ,"Grida"],
+    
+    "Maharashtra " :  [ "Tarfa Naach" ,"Tamasha" ,"Lalit Bharud" , "Gondha" ," Dashavatar" ,"Lavani" ,"Koli dance."],
+    
+    "Meghalaya" : ["Shad sukmysiem", "Shad nongkrem" , "Derogata"," Do dru Sua", "Laho"],
+    
+    "Nagaland" :  ["Chang Lo (Sua Lua)"],
+    
+    "Odisha" : [ "Pala Jtra", "Daskathia", "Mayurbhanj Chhau"," Mangal Ras", "Sowang"," sambalpuri (dalkhai, rasarkeli)", "parbha"],
+    
+    "Punjab" : ["Naqqal", "Swang Bhangra" ],
+    
+    "Rajasthan" : ["Khyal", "Rasdhari" , "Rammat" , "Turra Kilangi"," Gauri", "Ghoomar", "Nautanki" , "Ihamtara"],
+    
+    "Andhra Pradesh" : ["Veethi Natakam", "Burrakatha" , "Lambadi, Koya"],
+    
+    "Tamil Nadu" : ["Therukuttu", "Veethi Natakam" , "Bhagwat Mela Natakam ", "Kurvaanji" , "Pagal Vasham", "Kavadi Chindu"],
+    
+    "Telangana" : ["Bathukamma"],
+    
+    "Uttar Pradesh" : ["Bhagat" , "Sang-Swang" , "Naqqual", "Mayur Nritya", "Charukala"],
+    
+    "Uttrakhand" : ["Chholiya"],
+    
+    "Goa" : ["Fugadi", "Dashavatar", "Perni jagar", "Musal khel", "Samai nrutya" , "Gonph dance" , "Dekhni", "Kunbi dance"," Ghode modni", "Dhalo" , "Tonya mel" , "Talgadi"],
+    
+    "West Bengal" : ["Chhau (Purulia)", "Santhali"]
+
+}
+
